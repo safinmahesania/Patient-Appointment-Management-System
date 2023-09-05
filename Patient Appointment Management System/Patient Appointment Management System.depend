@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578153355 source:c:\users\safin\desktop\patient appointment management system\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

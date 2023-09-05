@@ -1,0 +1,5 @@
+1.	First you have to download code block from this website		
+	http://www.codeblocks.org/downloads/26 
+2.	Install code block and after that open the folder of Patient Appointment Management System
+3.	In that there will be file of main with extension of .c 
+4.	Open that file and press F9 to run program
